@@ -3,6 +3,8 @@
 ![Part 2](https://github.com/undefinedhub/.github/blob/a588df39a7f8b3804e8401098720b0ce97f01535/profile/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%2043%20%5B248ADE9%5D.png)
 ----
 <div align="center">
+<h1>Discontinued</h1>
+<p>We are MOVED, check it here: </p>
 <h3>Links</h3>
 <p>About <a href="https://github.com">our design</a></p>
 </div>
