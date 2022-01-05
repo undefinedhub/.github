@@ -4,7 +4,7 @@
 ----
 <div align="center">
 <h1>Discontinued</h1>
-<p>We are MOVED, check it here: </p>
+<p>We are MOVED, check it here: https://github.com/undefinedhub/info</p>
 <h3>Links</h3>
 <p>About <a href="https://github.com">our design</a></p>
 </div>
